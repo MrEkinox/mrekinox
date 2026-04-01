@@ -1,140 +1,165 @@
-# 👋 Salut, moi c’est Yannis
+<h1 align="center">👋 Yannis Caussade</h1>
 
-Développeur **Fullstack** spécialisé dans la conception et le développement de **SaaS** et d’applications **web & mobile**.
+<p align="center">
+Développeur <strong>Fullstack</strong> spécialisé en <strong>SaaS</strong> & applications <strong>web / mobile</strong>
+</p>
 
-J’accompagne startups et entreprises sur des projets **à forte exigence technique**, de la phase de cadrage jusqu’à la mise en production.
+<p align="center">
+Je conçois et développe des produits <strong>robustes</strong>, <strong>scalables</strong> et <strong>maintenables</strong>
+</p>
 
-👉 Mon objectif : construire des produits **robustes, scalables et maintenables**, pensés pour durer.
-
----
-
-## 🚀 Ce que je fais concrètement
-
-Je ne fais pas que coder.
-
-J’aide à :
-- structurer un projet dès le départ (cadrage, architecture)
-- prendre les bonnes décisions techniques
-- sécuriser la montée en charge
-- éviter les erreurs coûteuses
-
-J’interviens aussi bien en **from scratch** qu’en **renfort sur des projets existants**.
+<p align="center">
+🚀 React • React Native • GraphQL • Node.js • Parse Server
+</p>
 
 ---
 
-## 🧠 Mes spécialités
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Parse_Server-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql" />
+  <img src="https://img.shields.io/badge/Nexus-FF4088?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Monorepo-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI/CD-222222?style=for-the-badge" />
+</p>
+
+---
+
+## 🚀 Ce que je fais
+
+J’accompagne startups et entreprises dans la conception et le développement d’applications sur mesure, de l’idée à la production.
+
+Mon rôle ne se limite pas au code :
+je structure les projets, sécurise les choix techniques et pose des bases solides pour la suite.
+
+👉 Objectif : éviter les erreurs coûteuses et construire un produit qui tient dans le temps.
+
+---
+
+## 🧠 Expertise
 
 - Architecture SaaS complexe
 - Applications web (React / Next.js)
 - Applications mobiles (React Native)
 - Backend GraphQL (Node.js, Parse Server)
 - Gestion des accès & sécurité (ACL, multi-tenant)
-- Conception de systèmes maintenables dans le temps
+- Systèmes temps réel & logique métier avancée
 
 ---
 
-## 🏗️ Exemples de sujets que je maîtrise
+## 🏗️ Ce que je sais vraiment faire
 
-- Mise en place de systèmes **multi-tenant** avec isolation des données
-- Gestion fine des **permissions et rôles**
-- Conception d’APIs **GraphQL propres et évolutives**
-- Architecture backend **scalable**
-- Synchronisation temps réel / logique métier complexe
-- Optimisation des performances frontend
+- Concevoir des architectures propres et évolutives
+- Gérer des systèmes multi-tenant avec isolation des données
+- Mettre en place des permissions complexes (rôles, ACL)
+- Créer des APIs GraphQL maintenables
+- Optimiser les performances frontend
+- Structurer du code pensé pour durer
 
 ---
 
-## 💼 Expériences marquantes
+## 💼 Expériences clés
 
-### 🗳️ PeopleVox (vote électronique)
-Conception et développement complet d’une solution web et mobile sécurisée.
+### 🎓 MonAccueilSécurité — SaaS de formation
+Plateforme multi-tenant complexe
 
-- Architecture fullstack (React, GraphQL, Parse Server)
+- Gestion organisations / groupes
+- Suivi de progression
+- Génération d’attestations
+- Logique métier avancée
+
+---
+
+### 🗳️ PeopleVox — Vote électronique
+Développement complet d’une solution sécurisée web & mobile
+
 - Authentification sécurisée
-- Gestion des votes et des accès
-- Projet avec fortes contraintes de fiabilité
-
-👉 Expérience clé sur les systèmes sensibles.
+- Gestion des votes & accès
+- Contraintes fortes de fiabilité
 
 ---
 
-### 📸 BelleGueule
-Plateforme web & mobile connectant modèles et marques.
+### 📸 BelleGueule — Plateforme modèles & marques
+Application web & mobile complète
 
-- Matching intelligent utilisateurs
+- Matching intelligent
 - Messagerie intégrée
 - Paiement Stripe
 - Notifications temps réel
-- UX complète pensée dès la conception
 
 ---
 
-### 📦 Livraki
-Prototype d’application mobile de livraison collaborative.
+### 📦 Livraki — Livraison collaborative
+Prototype mobile innovant
 
 - Géolocalisation temps réel
 - Matching de trajets
-- Sécurisation des échanges via codes SMS
-- Approche produit orientée usage réel
+- Sécurisation via SMS
 
 ---
 
-### 🎓 MonAccueilSécurité
-SaaS de formation avec gestion avancée des utilisateurs et organisations.
-
-- Multi-tenant complet
-- Gestion des groupes, formations, modules
-- Génération d’attestations
-- Logique métier complexe et structurée
-
----
-
-## 🧩 Ma façon de travailler
+## 🧩 Ma manière de travailler
 
 - Cadrage avant développement (indispensable)
 - Communication claire et structurée
 - Code propre et maintenable
-- Vision long terme (pas de solutions jetables)
+- Vision long terme
 
-Je privilégie toujours :
-👉 **la simplicité maîtrisée plutôt que la complexité inutile**
+👉 Je privilégie toujours :  
+<strong>la simplicité maîtrisée plutôt que la complexité inutile</strong>
 
 ---
 
 ## ⚙️ Stack principale
 
-**Frontend**
-- React.js
-- Next.js
-- React Native
-- Material UI
+<p>
+<strong>Frontend</strong><br/>
+React • Next.js • React Native • Material UI
+</p>
 
-**Backend**
-- Node.js
-- GraphQL (Nexus, Apollo)
-- Parse Server
+<p>
+<strong>Backend</strong><br/>
+Node.js • GraphQL (Nexus, Apollo) • Parse Server
+</p>
 
-**Infra & outils**
-- Firebase
-- Stripe
-- CI/CD
-- Monorepo (Yarn workspaces)
+<p>
+<strong>Infra</strong><br/>
+DigitalOcean • Stripe • CI/CD • Monorepo
+</p>
 
 ---
 
-## 📬 Me contacter
+## 📊 Stats GitHub
 
-Je suis disponible pour :
-- missions freelance
-- renfort technique
-- conception de nouveaux projets
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrekinox&show_icons=true&theme=tokyonight" />
+</p>
 
-👉 Malt : (ajoute ton lien)
-👉 Email : (ton email)
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrekinox&theme=tokyonight" />
+</p>
 
 ---
 
-## 🚀 Fun fact
+## 📫 Me contacter
 
-J’aime construire des systèmes complexes…  
-mais surtout les rendre **simples à utiliser et à maintenir**.
+<p align="center">
+<a href="https://www.linkedin.com/in/yannis-caussade/">LinkedIn</a> • 
+<a href="https://www.malt.fr/profile/yanniscaussade">Malt</a> • 
+<a href="mailto:yannis.caussade@gmail.com">Email</a>
+</p>
+
+---
+
+## 🚀 En résumé
+
+Je construis des systèmes complexes…  
+mais surtout, je les rends **simples à utiliser, fiables et durables**.
