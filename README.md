@@ -141,10 +141,7 @@ DigitalOcean • Stripe • CI/CD • Monorepo
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrekinox&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrekinox&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrekinox&theme=tokyonight" />
 </p>
 
 ---
